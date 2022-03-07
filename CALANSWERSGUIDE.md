@@ -1,9 +1,9 @@
-This is a guide to using CalAnswers to generate the raw data for the repository.
+This is a guide to using Cal Answers to generate the raw data for the repository.
 
 # Initial steps
  
-1. Gain access to [CalAnswers](https://calanswers.berkeley.edu/getting-access-cal-answers).
-2. Log-in to CalAnswers. Under navigate to Student Data Dashboards > Student Applicants and then the relevant type (undergraduate or graduate)
+1. Gain access to [Cal Answers](https://calanswers.berkeley.edu/getting-access-cal-answers).
+2. Log-in to Cal Answers. Under navigate to Student Data Dashboards > Student Applicants and then the relevant type (undergraduate or graduate)
 
 # Getting a master link for A/A/SIR
 Once you have followed the initial steps: 
