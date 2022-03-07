@@ -23,5 +23,5 @@ Note: these links are not right and need to be updated.
   - [Transfer A/A/SIR counts, spring](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=rgilqiv3cqmn0gkslv3fs7u88i&options=-)
  
 # Notes on this data
-- A/A/Statement of Intent to Register means "Applied/Admitted/Statement of Intent to Register."
+- A/A/SIR "Applied/Admitted/Statement of Intent to Register."
 - UC Berkeley has one freshman admissions application cycle. Incoming freshman are either admitted to the fall semester (common) or the spring semester (rare). I did not include crosstabs for fall/spring admissions and residency as I do not think that this data would be particularly useful. 
