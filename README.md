@@ -2,7 +2,7 @@
 UC Berkeley applicant data sourced from the Cal Answers database
 
 # Data schema
-The following is a schema for the data contained in this repository. Links are provided to CalAnswers queries; note that you can only access these if you can access the CalAnswers database. 
+The following is a schema for the data contained in this repository. Links are provided to Cal Answers queries; note that you can only access these if you can access the Cal Answers database. 
 
 [All undergraduate A/A/SIR counts](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=j7vgjuhplv6bre5qu8sbl1jobq&options=-)
 
