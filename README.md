@@ -3,9 +3,13 @@ UC Berkeley applicant data sourced from the Cal Answers database
 
 # Data schema
 The following is a schema for the data contained in this repository. Links are provided to CalAnswers queries; note that you can only access these if you can access the CalAnswers database. 
+
+[All undergraduate A/A/SIR counts](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=3tup6malpmekkkh18p2imfamlu&options=-)
+
+Note: these links are not right and need to be updated. 
 - [Freshman A/A/SIR counts](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=vgas5p2t6j3cq0ajo79si5mkpe&options=-)
-  - [Freshman A/A/SIR counts, in-state](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=53tvdn5n8plthth2k0a8ifdb1e&options=-)
-  - [Freshman A/A/SIR counts, international](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=1kp2hjgcq2hsq2sbqs774bbi82&options=-)
+  - [Freshman A/A/SIR counts, in-state](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=rmu5n9aj18dmeq8uok9vhc90la&options=-)
+  - [Freshman A/A/SIR counts, international](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=o5kcuu28bt8gjmslb1n5itv3r6&options=-)
   - [Freshman A/A/SIR counts, domestic out-of-state](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=efoe1kjb9jtuk5gm4tnkv6vque&options=-)
   - [Freshman A/A/SIR counts, unknown residency](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=hu6l9r4t65i9t0sddon34rh2de&options=-)
   - [Freshman A/A/SIR counts, fall](https://calanswers-bi.berkeley.edu:9503/analytics/saw.dll?Dashboard&PortalPath=%2Fshared%2FStudent%20Applicants%2F_portal%2FUndergraduate%20Applicants&Page=UG%20Applicant%20Counts&PageIdentifier=o9ttqb52kstr0gm3&BookmarkState=lcorp0j1rfan1hl0v0udusnoee&options=-)
