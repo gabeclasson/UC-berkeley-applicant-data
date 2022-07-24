@@ -22,4 +22,4 @@ The following is a schema for the data contained in this repository. Links are p
  
 # Notes on this data
 - A/A/SIR "Applied/Admitted/Statement of Intent to Register."
-- UC Berkeley has one freshman admissions application cycle. Incoming freshman are either admitted to the fall semester (common) or the spring semester (rare). I did not include crosstabs for fall/spring admissions and residency as I do not think that this data would be particularly useful. 
+- UC Berkeley has one freshman admissions application cycle. Incoming freshmen are either admitted to the fall semester (common) or the spring semester (rare). I did not include crosstabs for fall/spring admissions and residency as I do not think that this data would be particularly useful. 
